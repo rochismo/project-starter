@@ -1,17 +1,21 @@
 {
   "name": "node-project-starter",
   "version": "1.1.0",
-  "description": "",
+  "description": "Simple node project creator using inquirer",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rochismo/project-starter"
+  },
   "bin": {
     "starter": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["project creator", "project starter", "boilerplate"],
+  "author": "rochismo",
+  "license": "MIT",
   "preferGlobal": true,
   "dependencies": {
     "inquirer": "^7.0.3"
