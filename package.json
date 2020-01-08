@@ -14,7 +14,6 @@
   "license": "ISC",
   "preferGlobal": true,
   "dependencies": {
-    "inquirer": "^7.0.3",
-    "npm-package-search": "^0.1.0"
+    "inquirer": "^7.0.3"
   }
 }
