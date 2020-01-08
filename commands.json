@@ -1,0 +1,14 @@
+[
+    {
+        "cmd": "npx",
+        "args": ["license", "mit"]
+    },
+    {
+        "cmd": "npx",
+        "args": ["gitignore", "node"]
+    },
+    {
+        "cmd": "npx",
+        "args": ["covgen"]
+    }
+]
